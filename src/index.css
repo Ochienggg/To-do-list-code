@@ -1,6 +1,6 @@
 .app-container {
   min-height: 100vh;
-  background-color: #f3f4f6;
+  background-color: violet;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -9,7 +9,7 @@
 
 
 .task-app {
-  background-color: #ffffff;
+  background-color: gold;
   padding: 24px;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -32,7 +32,7 @@
 }
 
 .error {
-  color: #ef4444;
+  color: red;
 }
 
 .add-task-form {
@@ -44,14 +44,14 @@
 .task-input {
   flex: 1;
   padding: 8px;
-  border: 1px solid #d1d5db;
+  border: 1px solid maroon;
   border-radius: 4px;
   font-size: 1rem;
 }
 
 .add-button {
-  background-color: #80a1d4;
-  color: #000000;
+  background-color: pink;
+  color: peachpuff;
   padding: 8px 16px;
   border: none;
   border-radius: 4px;
@@ -60,7 +60,7 @@
 }
 
 .add-button:hover {
-  background-color: #2e5ec7;
+  background-color: indigo;
 }
 
 
